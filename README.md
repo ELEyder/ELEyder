@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Eyder! | ¡Hola, soy Eyder!
 
-<!--
-**ELEyder/ELEyder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer passionate about web development and coding challenges.  
+Soy un desarrollador junior apasionado por el desarrollo web y los desafíos de programación.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools | Tecnologías y Herramientas
+- **Frontend:** React, Angular, Next.js
+- **Backend:** Java Spring Boot, Node.js, PHP
+- **Databases:** MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals | Objetivos Actuales
+- Building an awesome portfolio with React and TypeScript.  
+  Construir un portafolio increíble con React y TypeScript.  
+- Developing a REST API for **Cinescat**.  
+  Desarrollar una API REST para **Cinescat**.
+
+Let's connect! 🌐 | ¡Conectemos!
