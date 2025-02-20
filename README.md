@@ -9,8 +9,8 @@ Soy un desarrollador junior apasionado por el desarrollo web y los desafíos de 
 - **Databases:** MySQL, Firebase, PostgresSQL
 
 ## 🎯 Current Goals | Objetivos Actuales
-- Building an awesome portfolio with React and TypeScript.  
-  Construir un portafolio increíble con React y TypeScript.  
+- Get a job.
+  Conseguir trabajo.
 - Developing a REST API for **Cinescat**.  
   Desarrollar una API REST para **Cinescat**.
 
