@@ -10,7 +10,7 @@ Soy un desarrollador junior apasionado por el desarrollo web y los desafíos de 
 
 ## 🎯 Current Goals | Objetivos Actuales
 - Get a job.
-  Conseguir trabajo.
+  Conseguir un trabajo
 - Developing a REST API for **Cinescat**.  
   Desarrollar una API REST para **Cinescat**.
 
