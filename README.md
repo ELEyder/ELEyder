@@ -5,7 +5,7 @@ Soy un desarrollador junior apasionado por el desarrollo web y los desafíos de 
 
 ## 🚀 Technologies & Tools | Tecnologías y Herramientas
 - **Frontend:** React, Next.js
-- **Backend:** Java Spring Boot, Node.js, PHP, Python, Laravel
+- **Backend:** Java Spring Boot, Node.js, PHP, Laravel
 - **Databases:** MySQL, Firebase, PostgresSQL
 
 ## 🎯 Current Goals | Objetivos Actuales
