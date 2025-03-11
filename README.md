@@ -8,10 +8,4 @@ Soy un desarrollador junior apasionado por el desarrollo web y los desafíos de 
 - **Backend:** Java Spring Boot, Node.js, PHP, Laravel
 - **Databases:** MySQL, Firebase, PostgresSQL
 
-## 🎯 Current Goals | Objetivos Actuales
-- Get a job.
-  Conseguir un trabajo
-- Developing a REST API for **Cinescat**.  
-  Desarrollar una API REST para **Cinescat**.
-
 Let's connect! 🌐 | ¡Conectemos!
